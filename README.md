@@ -9,7 +9,7 @@ Ta repozitorij vsebuje vizualizacijo **absolutne razlike radiance** v Ljubljani 
 ### <h2 align="center"><b>Ljubljana: pandemija covid-19</b></h2>
 
 <div style="border: 3px solid black; padding: 10px; display: inline-block;">
-    <img src="Ljubljana-pandemija.gif" width="100%">
+    <img src="Covid-19.gif" width="100%">
 </div>
 
 ---
